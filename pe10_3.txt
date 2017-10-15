@@ -1,0 +1,15 @@
+Uitvoer 10_3A:      B
+
+Uitvoer 10_3B:      D
+
+Uitvoer 10_3C:      A
+
+Uitvoer 10_3D:      C
+
+Uitvoer 10_3E:      C
+
+Uitvoer 10_3F:      D
+
+Uitvoer 10_3G:      A
+
+Uitvoer 10_3H:      D
